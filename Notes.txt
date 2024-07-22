@@ -1,0 +1,1 @@
+- The function mean_dataset works fine except that for data set with greater mean than the desired mean is left unchecked.
